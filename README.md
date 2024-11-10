@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Neil Damle
-ndamle@ucsd.edu
+Neil Damle and Ari Juljulian
+
